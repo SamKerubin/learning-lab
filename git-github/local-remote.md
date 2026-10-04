@@ -10,3 +10,4 @@ unless you pack the repository and share it (via a `.zip` for example)
 They store a copy of the most recently updated repository.
 There are some tools specialized in hosting remote repositories, be it GitHub, GitLab, or anything else.
 
+See _[how to setup a remote repository](guides/how-to-setup-remote.md)_ in GitHub.
