@@ -14,3 +14,7 @@ I lied, there are not only 3 zones in Git. Theres actually an extra zone (if we 
 
 - **Stash** Is a zone used to temporary store changes made in both the working tree and the staging area.
 The stash works just like a stack data structure, the last stash will pop next and so on until its empty.
+
+## See next
+
+- [Git file states](file-states.md)
