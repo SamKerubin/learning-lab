@@ -18,3 +18,4 @@ when, where, and what changed.
 ## See next
 
 - **[Local vs remote repositories](local-remote.md)**
+- **[Git zones](git-zones.md)**
