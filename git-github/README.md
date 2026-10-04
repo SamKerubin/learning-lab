@@ -14,3 +14,7 @@ when, where, and what changed.
 
 - **GitHub** Is a Git repository manager. It handles repositories remotely
 (more on this later). GitHub makes easier sharing projects and working with other people
+
+## See next
+
+- **[Local vs remote repositories](local-remote.md)**
