@@ -63,3 +63,4 @@ o - o - o - o - o <- (HEAD)
 ## See next
 
 -  _[Rebasing](rebasing.md)_
+- _[Merge conflicts](merge-conflict.md)_
