@@ -59,3 +59,7 @@ o - o - o - o - o <- (HEAD)
 ```
 
 * Note that fast-forward will automatically delete the branch, while merge keeps the branch alive
+
+## See next
+
+-  _[Rebasing](rebasing.md)_
